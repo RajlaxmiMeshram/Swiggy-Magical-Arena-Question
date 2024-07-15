@@ -22,7 +22,7 @@
 	- pom.xml: Maven project configuration file.
 
 ## How to Build and Run
-	=>To import the project into Eclipse:
+	=> To import the project into Eclipse:
 		1. Open Eclipse IDE.
 		2. Select "File" -> "Import" -> "Existing Maven Projects".
 		3. Browse to the project directory and select it.
@@ -43,5 +43,5 @@
 ## Unit Tests
 	Unit tests are provided to ensure the correctness of the code. JUnit 3.8.1 are used for testing.
 	
-##Steps to do Unit Testing:
+## Steps to do Unit Testing:
 	Right click on Testing class Name => Run as => select Junit Test Case =>It will show Unit Test cases
